@@ -1,1 +1,2 @@
 Aquest es un TXT de la practicagit 
+I ara s'han fet els canvis des de branch1
