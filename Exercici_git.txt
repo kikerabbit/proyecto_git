@@ -1,1 +1,3 @@
 Aquest es un TXT de la practicagit 
+I ara s'han fet els canvis des de branch1
+ara un tercer canvi al text per tornar a la branca master
